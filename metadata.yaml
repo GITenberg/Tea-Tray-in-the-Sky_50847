@@ -1,4 +1,8 @@
 _repo: Tea-Tray-in-the-Sky_50847
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50847-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Evelyn E.
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '25680'
     url: http://www.gutenberg.org/2009/agents/25680
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50847#Tea-Tray-in-the-Sky
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-01-05'
 gutenberg_type: Text
